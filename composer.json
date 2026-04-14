@@ -1,8 +1,8 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "al-hareth/laravel-api-starter",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "Simple, biolerplate-free, un-opinionated Laravel API starter.",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
